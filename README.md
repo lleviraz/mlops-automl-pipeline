@@ -9,3 +9,7 @@ IDEAS for the automatic step:
 4. Missing Values ratio 
 5. Auto bias detector (e.g. gender bias)
 6. 
+
+Pipeline:
+1. Have a configuration file as input to the python script: one for each model and dataset, that will define the categorical and numerical features
+2. the metrics
